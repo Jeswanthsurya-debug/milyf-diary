@@ -1,0 +1,10 @@
+{
+  "name": "Diary",
+  "short_name": "Diary",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFF7F9",
+  "theme_color": "#F8C8DC",
+  "description": "A private place for your pages.",
+  "icons": [{ "src": "/icon-180.png", "sizes": "180x180", "type": "image/png", "purpose": "any maskable" }]
+}
